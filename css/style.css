@@ -1,0 +1,89 @@
+body{
+  background:#5c4e84;
+}
+
+
+img{
+  height:50%;
+  width:50%;
+  border-radius: 50%;
+  background: white;
+}
+
+#myTopnav{
+  border: 2px solid #2f2e35;
+  background: #2f2e35;
+  opacity: 0.9;
+}
+
+.navbar-brand{
+  font-family: VT323, Graduate;
+  font-size: 300%;
+  user-select: none;
+}
+
+
+.col-md-3, .col-md-9{
+  text-align:center;
+}
+
+#all, #on, #off{
+  font-size: 150%;
+  user-select:none;
+  color: white;
+}
+
+#streamCont{
+  margin-top: 10%;
+  border: 2px solid #202020;
+  width: 70%;
+  background: #462266;
+  
+}
+
+
+#tempText{
+  font-family: VT323, Graduate;
+  font-size: 500%;
+  font-width: bold;
+  color: white;
+  text-align: center;
+  
+}
+
+#online{
+  font-family: VT323, Graduate;
+  font-size: 300%;
+  background: green;
+  color: white;
+ }
+
+#offline{
+ font-family: VT323, Graduate;
+  font-size: 300%;
+  background: red;
+  color: white;
+}
+
+#curr{
+  font-family: VT323, Graduate;
+  font-size: 250%;
+  color: white;
+}
+
+.row{
+ border: 2px solid #202020;
+ padding: 10% 0% 10% 0%;
+}
+
+.col-md-3{
+ border-right: 2px solid #202020; 
+}
+
+#none{
+  font-family: VT323, Graduate;
+  font-size: 300%;
+  color: white;
+}
+
+
